@@ -1,0 +1,11 @@
+spring:
+  jdbc:
+    datasource:
+      driverClassName: com.mysql.jdbc.driver
+      url: jdbc:mysql://pro
+      username: root
+      password: root
+
+
+server:
+  port: 2015

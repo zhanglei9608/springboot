@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.atguigu.springboot.bean.DataSourceProperties",
+      "sourceType": "com.atguigu.springboot.bean.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.springboot.bean.DataSourceProperties"
+    },
+    {
+      "name": "application.password",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.springboot.bean.DataSourceProperties"
+    },
+    {
+      "name": "application.url",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.springboot.bean.DataSourceProperties"
+    },
+    {
+      "name": "application.username",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.springboot.bean.DataSourceProperties"
+    }
+  ],
+  "hints": []
+}

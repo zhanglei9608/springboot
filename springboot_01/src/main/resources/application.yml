@@ -1,0 +1,11 @@
+#spring:
+#  jdbc:
+#    datasource:
+#      driverClassName: com.mysql.jdbc.driver
+#      url: jdbc:mysql
+#      username: root
+#      password: root
+
+spring:
+  profiles:
+    active: pro

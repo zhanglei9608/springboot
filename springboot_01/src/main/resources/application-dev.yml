@@ -1,0 +1,12 @@
+spring:
+  jdbc:
+    datasource:
+      driverClassName: com.mysql.jdbc.driver
+      url: jdbc:mysql://dev
+      username: root
+      password: root
+      type:
+
+
+server:
+    port: 1235
